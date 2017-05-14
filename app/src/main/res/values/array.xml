@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="tittle">
+        <item>The Wedding Plan</item>
+        <item>King Arthur: Legend of the Sword</item>
+        <item>The Wall</item>
+    </string-array>
+
+    <array name="places">
+        <item>@drawable/ic_cloud_black_24dp</item>
+        <item>@drawable/ic_face_black_24dp</item>
+        <item>@drawable/ic_face_black_24dp</item>
+
+    </array>
+    <array name="places_picture">
+        <item>@drawable/image1</item>
+        <item>@drawable/image2</item>
+        <item>@drawable/image3</item>
+    </array>
+</resources>
