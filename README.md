@@ -16,7 +16,7 @@
     https://developer.nytimes.com/ 
     
 ### E. Jenis Navigasi
-    Tabs 
+    Navigation Drawer
 ### F. Library
     SQLite dasar
 ### G. Deskripsi
@@ -35,4 +35,8 @@
    1] <a href='https://postimg.org/image/chjxmfvzr/' target='_blank'><img src='https://s15.postimg.org/chjxmfvzr/Pribadi1.jpg' border='0' alt="Pribadi1"/></a><br/><br/>
 2] <a href='https://postimg.org/image/gryli112v/' target='_blank'><img src='https://s15.postimg.org/gryli112v/Pribadi2.jpg' border='0' alt="Pribadi2"/></a><br/><br/>
 3] <a href='https://postimg.org/image/afjg86y0n/' target='_blank'><img src='https://s15.postimg.org/afjg86y0n/Pribadi3.jpg' border='0' alt="Pribadi3"/></a><br/><br/>
+4] <a href='https://postimg.org/image/5mq2dzw3d/' target='_blank'><img src='https://s4.postimg.org/5mq2dzw3d/Pribadi4.jpg' border='0' alt="Pribadi4"/></a><br/><br/>
+5] <a href='https://postimg.org/image/5b8m18fnd/' target='_blank'><img src='https://s4.postimg.org/5b8m18fnd/Pribadi5.jpg' border='0' alt="Pribadi5"/></a><br/><br/>
+
+
 
