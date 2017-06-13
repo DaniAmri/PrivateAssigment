@@ -1,10 +1,7 @@
 package id.sch.smktelkom_mlg.privateassignment.xirpl608.movie1;
 
-/**
- * Created by dani on 5/14/2017.
- */
-
 public class Table {
+
     public static String getSQLCreateParam(String name, String[] colName, String[] colType) {
         String sql = "CREATE TABLE " + name + "(";
         int i = 0;
